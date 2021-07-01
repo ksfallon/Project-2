@@ -10,6 +10,7 @@ const PORT = process.env.PORT || 3333;
 const app = express();
 const db = require('./models');
 
+console.log('test')
 app.use(cookieParser());
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
