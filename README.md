@@ -1,24 +1,34 @@
-[![Build Status](https://travis-ci.com/alperg/project2-starter-auth.svg?branch=master)](https://travis-ci.com/alperg/project2-starter-auth)
+# **CAN RENAME EVERYTHING LATER**
+<h1 align ="center"> Project-2 </h1>
 
-# Project 2 Starter with Auth
+### **TABLE OF CONTENTS:**
+1. [Overview](#1-overview)
+2. [First thing](#2-)
+3. [second thing](#3-)
+4. [another](#4-)
+5. [another](#5-)
+6. [more](#6-)
+7. [License for Repository](#7-license)
 
-A simple starter project with Express, Handlebars, Sequelize, Passport and Local Auth.
+<br>
 
-## Live link:
-https://project2-starter-auth.herokuapp.com/
+## 1. Overview 
+<br>
 
-## Requirements:
+## 2. second
+ **Modules imported:**
+ - [express](https://www.npmjs.com/package/express)
+ - [mysql2](https://www.npmjs.com/package/mysql2)
+ - [dotenv](https://www.npmjs.com/package/dotenv)
+ - [sequelize](https://www.npmjs.com/package/sequelize)
 
-* Add `.env` file with the following content:
+## 3. Third
 
-```
-SEQUELIZE_USER=your_mysql_db_user
-SEQUELIZE_PASSWORD=your_mysql_db_password
-SEQUELIZE_HOST=your_mysql_db_host
-AUTH_SECRET=your_auth_secret_key
-ADMIN_USER_PWD=admin_password
-USER_PWD=user_pwd
-FORCE_SYNC=true_or_false
-TU=mysql_user
-TP=mysql_password
-```
+## 4. Fourth
+
+## 5. MORE
+
+## 6. MORE 
+
+## 7. License
+Licensed under the [MIT License](https://choosealicense.com/licenses/mit/#).
