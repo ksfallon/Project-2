@@ -38,6 +38,7 @@
   "homepage": "https://github.com/alperg/project2-starter-auth#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
+    "bulma": "^0.9.3",
     "connect-session-sequelize": "^7.0.3",
     "cookie-parser": "^1.4.5",
     "dotenv": "^8.2.0",
@@ -60,6 +61,6 @@
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-promise": "4.2.1",
     "eslint-plugin-standard": "4.0.1",
-    "prettier": "^2.1.2"
+    "prettier": "^2.3.2"
   }
 }
