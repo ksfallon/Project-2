@@ -37,3 +37,6 @@ Add trip - multiple trips
 
 Guest and Travellers accounts
 
+Models: 
+
+Parent = Location
