@@ -1,0 +1,10 @@
+Federal or State level APIs for national v local parks and information.  
+
+Local websites for calendars and information.  
+
+Local for transportation information.
+
+Back end first:
+    Build DB
+    Break up APIs
+    Set up server models
