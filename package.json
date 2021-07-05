@@ -9,7 +9,7 @@
     "fix": "eslint --fix .",
     "test": "npm run lint",
     "watch": "nodemon server.js",
-    "seed": "node seeds/index.js"
+    "seed": "node ./db/seed.js"
   },
   "repository": {
     "type": "git",
@@ -54,9 +54,11 @@
     "node": "^16.4.0",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
+    "seed": "^0.4.4",
     "sequelize": "^6.6.4"
   },
   "devDependencies": {
+    "db-seed": "^1.2.0",
     "eslint": "^7.9.0",
     "eslint-config-prettier": "6.11.0",
     "eslint-plugin-import": "2.22.0",
