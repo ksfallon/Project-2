@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/alperg/project2-starter-auth#readme",
   "dependencies": {
-    "bcrypt": "^5.0.0",
+    "bcrypt": "^5.0.1",
     "bulma": "^0.9.3",
     "connect-session-sequelize": "^7.0.3",
     "cookie-parser": "^1.4.5",
@@ -48,6 +48,7 @@
     "express-handlebars": "^5.1.0",
     "express-session": "^1.17.2",
     "helmet": "^4.1.1",
+    "init": "^0.1.2",
     "moment": "^2.29.0",
     "morgan": "^1.10.0",
     "mysql2": "^2.2.5",

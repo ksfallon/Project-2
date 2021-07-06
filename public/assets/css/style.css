@@ -1,3 +1,9 @@
+:root {
+  --base: rgba(173, 9, 9, 0.541);
+  --imp: rgba(173, 9, 9, 0.884);
+  
+}
+
 body {
   color: white;
   background-size: cover;
@@ -38,7 +44,7 @@ body {
 .container {
   padding-bottom: 2%;
   margin-top: 10%;
-  background: rgba(86, 101, 115,.6);
+  background: var(--base);
   height:100%;
   border-radius: .25rem;
   margin-bottom: 2%;
