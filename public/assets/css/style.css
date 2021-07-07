@@ -1,7 +1,11 @@
 :root {
   --base: rgba(173, 9, 9, 0.541);
-  --imp: rgba(173, 9, 9, 0.884);
-  
+  --imp: rgba(173, 9, 9, 0.541); 
+  --navimon: rgba(173, 9, 9, 0.541);
+}
+
+.navbar {
+  background-color: var(--navimon) !important;
 }
 
 body {
