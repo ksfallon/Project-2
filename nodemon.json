@@ -2,6 +2,7 @@
   "ignore": [
     "public/**",
     "views/**",
-    "README.md"
+    "README.md",
+    ".env"
   ] 
 }
